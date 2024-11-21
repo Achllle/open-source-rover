@@ -68,7 +68,7 @@ Cost to build these assemblies: $205.92 * 2 assemblies = $411.85
 | 2 Hole U channel | [1120 Series U-Channel (2 Hole, 72mm Length) - goBILDA](https://www.gobilda.com/1120-series-u-channel-2-hole-72mm-length/) | $4.99 | 2 | $9.98 |
 | 32mm bearing | [1604 Series 2-Side, 2-Post Pillow Block (32mm Bore) - goBILDA](https://www.gobilda.com/1604-series-2-side-2-post-pillow-block-32mm-bore/) | $12.99 | 4 | $51.96 |
 | 32mm 6mm spacer 2 pack | [1506 Series 32mm ID Spacer (36mm OD, 6mm Length) - 2 Pack - goBILDA](https://www.gobilda.com/1506-series-32mm-id-spacer-36mm-od-6mm-length-2-pack/) | $3.49 | 3 | $10.47 |
-| 29 hole beam | [1106 Series Square Beam (29 Hole, 232mm Length) - goBILDA](https://www.gobilda.com/1106-series-square-beam-29-hole-232mm-length/) | $5.09 | 7 | $35.63 |
+| 29 hole beam | [1106 Series Square Beam (29 Hole, 232mm Length) - goBILDA](https://www.gobilda.com/1106-series-square-beam-29-hole-232mm-length/) | $5.09 | 5 | $25.45 |
 | 41 hole beam | [1106 Series Square Beam (41 Hole, 328mm Length) - goBILDA](https://www.gobilda.com/1106-series-square-beam-41-hole-328mm-length/) | $6.99 | 4 | $27.96 |
 | 12 hole beam | [1106 Series Square Beam (12 Hole, 96mm Length) - goBILDA](https://www.gobilda.com/1106-series-square-beam-12-hole-96mm-length/) | $2.99 | 8 | $23.92 |
 | 41 hole u-beam beam | [1101 Series U-Beam (41 Hole, 328mm Length) - goBILDA](https://www.gobilda.com/1101-series-u-beam-41-hole-328mm-length/) | $3.89 | 1 | $3.89 |
